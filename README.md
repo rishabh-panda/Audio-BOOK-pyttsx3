@@ -1,4 +1,4 @@
-# Awdio-Book
+# Audio-BOOK-pyttsx3
 Text-To-Speech Conversion using ```pyttsx3``` and ```PyPDF2```
 
 ## Problem Statement
